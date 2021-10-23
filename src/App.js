@@ -10,15 +10,16 @@ function App() {
     // BEM
     <Router>
       <div className="App">
-        <Header />
         <Switch>
           <Route path="/login">
             <Login />
           </Route>
           <Route path="/checkout">
+            <Header />
             <Checkout />
           </Route>
           <Route path="/">
+            <Header />
             <Home />
           </Route>
         </Switch>
