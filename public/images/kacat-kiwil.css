@@ -1,0 +1,24 @@
+.kacat_kiwil {
+  font-size: 137.5px;
+  font-family: "URW Bookman";
+  color: rgb(11, 11, 11);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 0.975px;
+  top: -22px;
+  z-index: 1;
+}
+
+.kacat_kiwil {
+  font-size: 137.5px;
+  font-family: "URW Bookman";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 0.975px;
+  top: -22px;
+  z-index: 1;
+}
+
